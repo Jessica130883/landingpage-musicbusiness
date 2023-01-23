@@ -11,8 +11,23 @@ body {
         font-size: 15px;
         margin-left: 15px;
     }
-    p {
+    .first-text {
         font-size: 25px;
         margin-left: 15px;
+    }
+    .second-text {
+        font-size: 15px;
+        margin-left: 15px;
+    }
+    button {
+        width: 120px;
+        margin-left: 15px;
+    }
+    .logo_bottompage {
+        height: 180px;
+    }
+    .logo_box2 {
+        margin-top: 20px;
+        text-align: center;
     }
 }
