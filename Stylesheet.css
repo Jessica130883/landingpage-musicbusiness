@@ -39,11 +39,18 @@ body {
     .guide_title {
         font-size: 20px;
         margin: 25px 0 10px 60px;
+        color: rgb(162, 111, 224);
     }
     .first-text {
         font-size: 40px;
         margin-left: 60px;
         
+    }
+    .first-content {
+        color: #355070;
+    }
+    .second-content {
+        color: #EAAC8B;
     }
     .second-text {
         height: 100px;
@@ -54,6 +61,7 @@ body {
     button {
         margin-left: 60px;
         height: 50px;
+        background-color: rgb(64, 203, 224);
     }
     .main-content {
         display: grid;
