@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+.second-text {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
 @media screen and (max-width: 640px) {
 
     .logo {
