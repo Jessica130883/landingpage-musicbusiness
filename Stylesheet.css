@@ -53,9 +53,11 @@ body {
     }
     .first-content {
         color: #355070;
+        font-size: 70px;
     }
     .second-content {
         color: #EAAC8B;
+        font-size: 70px;
     }
     .second-text {
         height: 100px;
