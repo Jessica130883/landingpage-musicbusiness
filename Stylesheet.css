@@ -1,8 +1,29 @@
 body {
     margin: 0;
 }
+.guide_title {
+    font-family: 'proza libre', sans-serif;
+    color: rgb(162, 111, 224);
+}
+.first-text {
+    font-family: 'Alegreya SC', serif;
+}
+.first-content {
+    color: #355070;
+    
+    font-weight: bold;
+}
+.second-content {
+    color: #EAAC8B;
+    
+    font-weight: bold;
+}
 .second-text {
     font-family: 'Alegreya Sans SC', sans-serif;
+}
+.button {
+    font-family: 'proza libre', sans-serif;
+    font-weight: bold;
 }
 @media screen and (max-width: 640px) {
 
@@ -22,9 +43,11 @@ body {
         font-size: 15px;
         margin-left: 15px;
     }
+   
     button {
         width: 120px;
         margin-left: 15px;
+        font-weight: bold;
     }
     .logo_bottompage {
         height: 180px;
@@ -43,12 +66,12 @@ body {
         font-size: 20px;
         margin: 25px 0 10px 60px;
         color: rgb(162, 111, 224);
-        font-family: 'proza libre', sans-serif;
+        
     }
     .first-text {
         font-size: 40px;
         margin-left: 60px;
-        font-family: 'Alegreya SC', serif;
+        
         
     }
     .first-content {
@@ -74,7 +97,7 @@ body {
         height: 70px;
         width: 250px;
         background-color: rgb(64, 203, 224);
-        font-family: 'proza libre', sans-serif;
+        
         font-weight: bold;
         font-size: 20px;
         
