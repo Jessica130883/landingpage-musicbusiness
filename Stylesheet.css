@@ -24,6 +24,7 @@ body {
 .button {
     font-family: 'proza libre', sans-serif;
     font-weight: bold;
+    background-color: rgb(64, 203, 224);
 }
 @media screen and (max-width: 640px) {
 
@@ -48,6 +49,7 @@ body {
         width: 120px;
         margin-left: 15px;
         font-weight: bold;
+        background-color: rgb(64, 203, 224);
     }
     .logo_bottompage {
         height: 180px;
@@ -65,7 +67,7 @@ body {
     .guide_title {
         font-size: 20px;
         margin: 25px 0 10px 60px;
-        color: rgb(162, 111, 224);
+        
         
     }
     .first-text {
